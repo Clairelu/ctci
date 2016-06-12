@@ -5,3 +5,4 @@ Solutions for "Cracking the Coding Interview v5"
 
 Adding equivalent solutions in Objective-C
 Adding my own solutions
+-- Add one line on my mac--
